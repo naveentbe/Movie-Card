@@ -18,7 +18,7 @@ cd Movie-Card
 
 Install the project dependencies using npm:
 npm install
-Set Up Environment Variables
+
 
 
 **Running the Project**
