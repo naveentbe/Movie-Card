@@ -17,11 +17,13 @@ cd Movie-Card
 **Installation**
 
 Install the project dependencies using npm:
+
 npm install
 
 
 
 **Running the Project**
+
 npm run dev
 
 Open http://localhost:3001 in your browser to view the project.
