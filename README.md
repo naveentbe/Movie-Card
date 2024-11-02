@@ -1,16 +1,32 @@
-# Getting Started with Create React App
+**Quick Start**
+Follow these steps to set up the project locally on your machine.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Prerequisites**
 
-## Available Scripts
+Make sure you have the following installed on your machine:
 
-In the project directory, you can run:
+Git
+Node.js
+npm (Node Package Manager)
+Cloning the Repository
 
-### `npm start`
+git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
+cd project_3D_developer_portfolio
+**Installation**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Install the project dependencies using npm:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+npm install
+Set Up Environment Variables
 
+Create a new file named .env in the root of your project and add the following content:
+
+REACT_APP_EMAILJS_USERID=your_emailjs_user_id
+REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
+REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
+Replace the placeholder values with your actual EmailJS credentials. You can obtain these credentials by signing up on the EmailJS website.
+
+Running the Project
+
+npm run dev
+Open http://localhost:5173 in your browser to view the project.
