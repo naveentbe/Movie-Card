@@ -6,24 +6,28 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-Git
-Node.js
-npm (Node Package Manager)
-Cloning the Repository
+  1. Git
 
-git clone https://github.com/naveentbe/Movie-Card.git
-cd Movie-Card
+  2. Node.js
+
+  3. npm (Node Package Manager)
+
+**Cloning the Repository**
+
+```git clone https://github.com/naveentbe/Movie-Card.git```
+
+```cd Movie-Card```
 
 **Installation**
 
 Install the project dependencies using npm:
 
-npm install
+```npm install```
 
 
 
 **Running the Project**
 
-npm run dev
+```npm run dev```
 
-Open http://localhost:3001 in your browser to view the project.
+Open ```http://localhost:3001``` in your browser to view the project.
