@@ -11,7 +11,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone [git@github.com:adrianhajdin/project_3D_developer_portfolio.git](https://github.com/naveentbe/Movie-Card.git)
+git clone [[git@github.com:adrianhajdin/project_3D_developer_portfolio.git](https://github.com/naveentbe/Movie-Card.git)](https://github.com/naveentbe/Movie-Card.git)
 cd Movie-Card
 
 **Installation**
